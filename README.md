@@ -263,7 +263,7 @@ The `c_api.h` header is essential as it provides the TensorFlow Lite C API funct
 ## References
 
 - [TensorFlow Lite Documentation](https://www.tensorflow.org/lite)
-- [TensorFlow Lite C API](https://www.tensorflow.org/lite/guide/c_library)
+- [TensorFlow Lite C API](https://www.tensorflow.org/install/lang_c)
 - [Android NDK Documentation](https://developer.android.com/ndk)
 - [Android AudioRecord API](https://developer.android.com/reference/android/media/AudioRecord)
 
